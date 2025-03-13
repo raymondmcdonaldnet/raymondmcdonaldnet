@@ -1,4 +1,8 @@
-## Hi there 👋
+## Raymond McDonald, the .NET game dev guy
+
+I'm passionate about game development, functional programming, data-oriented programming, and .NET, all complemented by a lifelong interest in writing.
+
+Currently, I am working on my first large game using MonoGame. I'm interested in getting into teaching programming using .NET and game development.
 
 <!--
 **raymondmcdonaldnet/raymondmcdonaldnet** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -11,6 +15,5 @@ Here are some ideas to get you started:
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about ...
 - 📫 How to reach me: ...
-- 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
