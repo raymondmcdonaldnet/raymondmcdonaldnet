@@ -1,6 +1,6 @@
 ## Raymond McDonald, the .NET game dev guy
 
-I'm passionate about game development, functional programming, data-oriented programming, domain-driven design, and .NET, all complemented by a lifelong interest in writing.
+I'm passionate about game development, functional programming, data-oriented programming, and .NET, all complemented by a lifelong interest in writing.
 
 Currently, I am working on my first large game using MonoGame. I'm interested in getting into teaching programming using .NET and game development.
 
