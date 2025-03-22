@@ -1,8 +1,8 @@
 ## Raymond McDonald, the .NET game dev guy
 
-I'm passionate about game development, functional programming, data-oriented programming, and .NET, all complemented by a lifelong interest in writing. I'm getting into modern C++, too!
+I'm passionate about game development, computing, computer science, functional programming, data-oriented programming, C++, and .NET, all complemented by a lifelong interest in writing.
 
-Currently, I am working on my first large game using MonoGame. I'm getting into teaching programming using C++, C#/.NET, and game development. Interested in collaborating or taking lessons? E-mail me!
+Currently, I am working on my first large game. I'm getting into teaching programming using C++ and game development. Interested in collaborating or taking lessons? E-mail me!
 
 <!--
 **raymondmcdonaldnet/raymondmcdonaldnet** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
