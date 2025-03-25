@@ -1,8 +1,10 @@
-## Raymond McDonald, the .NET game dev guy
+## Raymond McDonald, DDD: Data-Driven Developer
 
-I'm passionate about game development, computing, computer science, functional programming, data-oriented programming, C++, and .NET, all complemented by a lifelong interest in writing.
+I'm passionate about computing, computer science, functional programming, game development, ECS, data-driven design, and data-oriented programming, all complemented by a lifelong interest in writing.
 
-Currently, I am working on my first large game. I'm getting into teaching programming using C++ and game development. Interested in collaborating or taking lessons? E-mail me!
+My favorite programming languages are C#, C++, Lua, and Odin. I've dabbled in many others, too.
+
+Currently, I am working on my first large game using C++ with Raylib and Flecs. I'm getting into teaching programming using C++ and game development. Interested in collaborating or taking lessons? E-mail me!
 
 <!--
 **raymondmcdonaldnet/raymondmcdonaldnet** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
