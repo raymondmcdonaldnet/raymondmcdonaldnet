@@ -2,7 +2,7 @@
 
 Hello! I'm passionate about computer science, game development, data-driven design, and data-oriented programming, all tied together by a life-long interest in writing.
 
-My favorite programming languages are C++, Odin, C#, Lua, JavaScript, and TypeScript. I've dabbled in many others, too.
+My favorite programming languages are C++, Odin, C#, Lua, GDScript, and JavaScript/TypeScript. I've dabbled in many others, too.
 
 I'm currently working to start regularly releasing small indie games made in RPG Maker. I'm learning how to make plugins, too. If you're interested in collaborating, please get in touch!
 
