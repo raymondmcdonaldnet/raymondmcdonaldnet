@@ -4,7 +4,7 @@ Hello! I'm passionate about game development, computer graphics, functional prog
 
 My favorite programming languages are Odin, C#, Lua, GDScript, JavaScript, and TypeScript. I've dabbled in many others, too. I tend to center myself on .NET and scripting languages.
 
-I'm currently working to start regularly releasing small indie games made in RPG Maker Unite and Godot. I'm learning how to make add-ons for RPG Maker Unite, too. If you're interested in collaborating, please get in touch!
+I'm currently working to start regularly releasing small indie games made in RPG Maker and Godot. I'm learning how to extend RPG Maker, too. If you're interested in collaborating, please get in touch!
 
 <!--
 **raymondmcdonaldnet/raymondmcdonaldnet** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
