@@ -2,7 +2,7 @@
 
 Hello! I'm passionate about game development, computer graphics, functional programming, data-driven design, and data-oriented programming, all tied together by a life-long interest in writing.
 
-I'm currently working to start regularly releasing small indie games made in Godot. I'm learning how to extend RPG Maker, too. If you're interested in collaborating, please get in touch!
+I'm currently working to start regularly releasing small indie games and mods. If you're interested in collaborating, please get in touch!
 
 <!--
 **raymondmcdonaldnet/raymondmcdonaldnet** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
