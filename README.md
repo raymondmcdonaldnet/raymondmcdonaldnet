@@ -2,7 +2,7 @@
 
 Hello! I'm particularly passionate about game development, level design, computer graphics, functional programming, data-driven design, and data-oriented programming.
 
-I'm currently working to start regularly releasing very small indie games and plugins made in RPG Maker. If you're interested in collaborating, please get in touch!
+I'm currently working to start regularly releasing indie games for the web. If you're interested in collaborating, please get in touch!
 
 <!--
 **raymondmcdonaldnet/raymondmcdonaldnet** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
