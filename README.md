@@ -1,6 +1,6 @@
 ## Raymond McDonald, Netizen and Data-Driven Developer
 
-Hello! I'm particularly passionate about game development, level design, computer graphics, functional programming, data-driven design, and data-oriented programming.
+Hello! I'm passionate about game development, programming languages, computer graphics, functional programming, data-driven design, data-oriented programming, and the Internet, all tied together by a life-long interest in writing.
 
 I'm currently working to start regularly releasing indie games for the web. If you're interested in collaborating, please get in touch!
 
