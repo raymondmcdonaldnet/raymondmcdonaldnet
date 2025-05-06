@@ -1,8 +1,8 @@
 ## Raymond McDonald, Netizen and Data-Driven Developer
 
-Hello! I'm passionate about game development, programming languages, computer graphics, functional programming, data-driven design, data-oriented programming, and the Internet, all tied together by a life-long interest in writing.
+Hello! I'm passionate about programming languages, functional programming, data-driven design, data-oriented programming, and the Internet, all tied together by a life-long interest in writing.
 
-I'm currently working to start regularly releasing indie games for the web. If you're interested in collaborating, please get in touch!
+I work a lot in Go and TypeScript, but I also have experience with C/C++, C#, and Lua. I'm currently polishing up my portfolio before I begin seeking my first software engineering job. Care to give me a shot?
 
 <!--
 **raymondmcdonaldnet/raymondmcdonaldnet** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
