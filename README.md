@@ -1,6 +1,6 @@
 ## Raymond McDonald, Netizen and Data-Driven Developer
 
-Look in the face of the thing for the best description of it.
+I change this pretty much all the time. I really like computing and computer science and programming but besides that I'm not really sure how to proceed. If you're reading this, give me a coveted entry-level junior job, please.
 
 <!--
 **raymondmcdonaldnet/raymondmcdonaldnet** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
