@@ -1,6 +1,6 @@
 ## Raymond McDonald, Netizen and Data-Driven Developer
 
-I change this pretty much all the time. I really like computing and computer science and programming but besides that I'm not really sure how to proceed. If you're reading this, give me a coveted entry-level junior job, please.
+Currently working on a million dollar friendslop game in Godot 4.
 
 <!--
 **raymondmcdonaldnet/raymondmcdonaldnet** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
